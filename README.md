@@ -5,28 +5,28 @@ This project is a console-based ATM Transaction Simulation developed using C pro
 
 Features
 
-  Create new bank account
+ 1. Create new bank account
 
-  PIN-based authentication
+ 2.PIN-based authentication
   
-  Deposit and withdraw money
+ 3.Deposit and withdraw money
   
-  Balance enquiry
+ 4.Balance enquiry
   
-  Mini statement
+ 5.Mini statement
   
-  Transaction history with date and time
+ 6.Transaction history with date and time
   
   
 Technologies Used
 
-  C Programming
+  1.C Programming
   
-  Structures
+  2.Structures
   
-  File Handling
+  3.File Handling
   
-  Time library
+  4.Time library
   
   
 How to Run
