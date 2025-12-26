@@ -2,6 +2,7 @@ ATM Transaction Simulation
 
 This project is a console-based ATM Transaction Simulation developed using C programming language.
 
+
 Features
 
   Create new bank account
@@ -16,6 +17,7 @@ Features
   
   Transaction history with date and time
   
+  
 Technologies Used
 
   C Programming
@@ -25,6 +27,7 @@ Technologies Used
   File Handling
   
   Time library
+  
   
 How to Run
 
